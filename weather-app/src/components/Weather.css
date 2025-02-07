@@ -62,6 +62,14 @@
      display: block;
      font-size: 16px;
 }
+.weather-data .col p{
+    display: block;
+    place-self: center;
+}
+.weather-data .col span{
+    display: block;
+    place-self: center;
+}
 .weather-data .col img{
     width: 26px;
     margin-top: 10px;
